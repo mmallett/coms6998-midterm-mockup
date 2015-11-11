@@ -37,3 +37,18 @@ body {
 .profile .right .nav{
   margin-bottom: 10px;
 }
+
+.matches img{
+  width: 100%;
+}
+.matches h3{
+  margin: 0px;
+}
+.matches p{
+  margin: 0px;
+}
+.matches a{
+  display: block;
+  width: 100px;
+  margin-top: 10px;
+}
