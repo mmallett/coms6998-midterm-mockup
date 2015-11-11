@@ -52,3 +52,28 @@ body {
   width: 100px;
   margin-top: 10px;
 }
+
+.message{
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.message .right{
+  padding-top: 0px;
+}
+.message textarea{
+  height: 215px;
+}
+.message a{
+  margin-top: 10px;
+  float: right;
+}
+
+.messages .me{
+  text-align: right;
+  color: red;
+}
+
+.messages .other{
+  color: blue;
+}
